@@ -1,0 +1,40 @@
+@media (max-width: 480px) {
+  body {
+    background-image: url('../images/bg-small.jpg');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-color: #4f1001;
+  }
+}
+@media (min-width: 480px) {
+  body {
+    background-image: url('../images/bg-ipad.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: #000000;
+  }
+}
+@media (min-width: 768px) {
+  body {
+    background-image: url('../images/bg-ipad.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: #000000;
+  }
+}
+@media (min-width: 992px) {
+  body {
+    background-image: url('../images/pool-background.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: #000000;
+  }
+}
+@media (min-width: 1200px) {
+  body {
+    background-image: url('../images/pool-background.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: #000000;
+  }
+}
