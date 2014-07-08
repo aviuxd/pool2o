@@ -34,7 +34,7 @@ module.exports = function(grunt) {
 		useminPrepare: {
 	    	html: 'release/index.html',
 			options: {
-				dest: 'release'
+				dest: 'release/build'
 			}	
 		},
 /*
