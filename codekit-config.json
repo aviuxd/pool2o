@@ -68,6 +68,15 @@
       "outputAbbreviatedPath" : "\/production\/render-ck.js",
       "fileType" : 64
     },
+    "\/release\/css\/cover.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/release\/css\/cover.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/noptify\/util\/index.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -178,6 +187,17 @@
       "outputAbbreviatedPath" : "\/production\/test-ck.js",
       "fileType" : 64
     },
+    "\/production\/wufoo-ck.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/wufoo-ck.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/production\/wufoo-ck-ck.js",
+      "fileType" : 64
+    },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/source-map\/build\/test-prefix.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -211,6 +231,17 @@
       "outputAbbreviatedPath" : "\/production\/suffix-browser-ck.js",
       "fileType" : 64
     },
+    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/test\/max_listeners.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/test\/max_listeners.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/max_listeners-ck.js",
+      "fileType" : 64
+    },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/issue-143.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -220,17 +251,6 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/issue-143-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/jsonify\/index.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/jsonify\/index.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/index-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/test\/globule_test.js" : {
@@ -255,15 +275,15 @@
       "outputAbbreviatedPath" : "\/production\/bash-comparison-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/test\/max_listeners.js" : {
+    "\/production\/bootstrap-ck.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/test\/max_listeners.js",
+      "inputAbbreviatedPath" : "\/production\/bootstrap-ck.js",
       "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/max_listeners-ck.js",
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/production\/bootstrap-ck-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/grunt-legacy-util\/test\/fixtures\/Gruntfile-execArgv.js" : {
@@ -277,15 +297,15 @@
       "outputAbbreviatedPath" : "\/production\/Gruntfile-execArgv-ck.js",
       "fileType" : 64
     },
-    "\/release\/js\/optimized.js" : {
+    "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/jsonify\/index.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/release\/js\/optimized.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/jsonify\/index.js",
       "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/production\/optimized-ck.js",
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/index-ck.js",
       "fileType" : 64
     },
     "\/assets\/FeaturetteGraphics\/PoolLockerGraphics_05.png" : {
@@ -407,15 +427,15 @@
       "outputAbbreviatedPath" : "\/production\/uglify-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/js-yaml\/lib\/js-yaml\/dumper.js" : {
+    "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/faye-websocket\/spec\/runner.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/js-yaml\/lib\/js-yaml\/dumper.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/faye-websocket\/spec\/runner.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/dumper-ck.js",
+      "outputAbbreviatedPath" : "\/production\/runner-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/lib\/action\/store\/false.js" : {
@@ -429,15 +449,15 @@
       "outputAbbreviatedPath" : "\/production\/false-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/faye-websocket\/spec\/runner.js" : {
+    "\/node_modules\/grunt\/node_modules\/js-yaml\/lib\/js-yaml\/dumper.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/faye-websocket\/spec\/runner.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/js-yaml\/lib\/js-yaml\/dumper.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/runner-ck.js",
+      "outputAbbreviatedPath" : "\/production\/dumper-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/iconv-lite\/test\/cyrillic-test.js" : {
@@ -682,6 +702,37 @@
       "outputAbbreviatedPath" : "\/production\/boolean_single-ck.js",
       "fileType" : 64
     },
+    "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/examples\/g.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/examples\/g.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/g-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/node_modules\/underscore.string\/test\/test_standalone.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/node_modules\/underscore.string\/test\/test_standalone.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/node_modules\/readable-stream\/lib\/_stream_passthrough.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/node_modules\/readable-stream\/lib\/_stream_passthrough.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/_stream_passthrough-ck.js",
+      "fileType" : 64
+    },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/node_modules\/readable-stream\/node_modules\/core-util-is\/lib\/util.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -703,37 +754,6 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/collections-ck.js",
       "fileType" : 64
-    },
-    "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/examples\/g.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/examples\/g.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/g-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/node_modules\/readable-stream\/lib\/_stream_passthrough.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/node_modules\/readable-stream\/lib\/_stream_passthrough.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/_stream_passthrough-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/node_modules\/underscore.string\/test\/test_standalone.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/node_modules\/underscore.string\/test\/test_standalone.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/lib\/action\/store\/constant.js" : {
       "ignoreWasSetByUser" : 0,
@@ -778,6 +798,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/extglob-ending-with-state-char-ck.js",
       "fileType" : 64
+    },
+    "\/release\/css\/form.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/release\/css\/form.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/optimist\/example\/default_hash.js" : {
       "ignoreWasSetByUser" : 0,
@@ -874,6 +903,15 @@
       "outputAbbreviatedPath" : "\/production\/defined-ck.js",
       "fileType" : 64
     },
+    "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/test\/test_underscore\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/test\/test_underscore\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/test\/test_underscore\/vendor\/qunit.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -884,15 +922,6 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/qunit-ck.js",
       "fileType" : 64
-    },
-    "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/test\/test_underscore\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/test\/test_underscore\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/node_modules\/grunt-usemin\/tasks\/usemin.js" : {
       "ignoreWasSetByUser" : 0,
@@ -960,17 +989,6 @@
       "outputAbbreviatedPath" : "\/production\/too_few-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/node_modules\/readable-stream\/lib\/_stream_duplex.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/node_modules\/readable-stream\/lib\/_stream_duplex.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/_stream_duplex-ck.js",
-      "fileType" : 64
-    },
     "\/node_modules\/grunt\/node_modules\/getobject\/test\/namespace_test.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -980,28 +998,6 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/namespace_test-ck.js",
-      "fileType" : 64
-    },
-    "\/js\/wufoo.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/wufoo.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/production\/wufoo-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/sequences.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/sequences.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/sequences-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-cssmin\/node_modules\/clean-css\/lib\/text\/free.js" : {
@@ -1015,6 +1011,39 @@
       "outputAbbreviatedPath" : "\/production\/free-ck.js",
       "fileType" : 64
     },
+    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/node_modules\/readable-stream\/lib\/_stream_duplex.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/node_modules\/readable-stream\/lib\/_stream_duplex.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/_stream_duplex-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/sequences.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/sequences.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/sequences-ck.js",
+      "fileType" : 64
+    },
+    "\/js\/wufoo.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/wufoo.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/production\/wufoo-ck.js",
+      "fileType" : 64
+    },
     "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/glob\/test\/00-setup.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1024,6 +1053,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/00-setup-ck.js",
+      "fileType" : 64
+    },
+    "\/production\/optimized-ck.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/optimized-ck.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/production\/optimized-ck-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/test\/nested.js" : {
@@ -1103,16 +1143,16 @@
       "outputAbbreviatedPath" : "\/production\/async-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/js-yaml\/lib\/js-yaml\/type\/merge.js" : {
+    "\/assets\/FeaturetteGraphics\/PoolLockerGraphics_14.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/js-yaml\/lib\/js-yaml\/type\/merge.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/merge-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/assets\/FeaturetteGraphics\/PoolLockerGraphics_14.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/FeaturetteGraphics\/PoolLockerGraphics_14.png",
+      "initialSize" : 1453,
+      "fileType" : 8192
     },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/lodash\/dist\/lodash.compat.min.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1125,16 +1165,16 @@
       "outputAbbreviatedPath" : "\/production\/lodash.compat.min-ck.js",
       "fileType" : 64
     },
-    "\/assets\/FeaturetteGraphics\/PoolLockerGraphics_14.png" : {
+    "\/node_modules\/grunt\/node_modules\/js-yaml\/lib\/js-yaml\/type\/merge.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/FeaturetteGraphics\/PoolLockerGraphics_14.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/FeaturetteGraphics\/PoolLockerGraphics_14.png",
-      "initialSize" : 1453,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/js-yaml\/lib\/js-yaml\/type\/merge.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/merge-ck.js",
+      "fileType" : 64
     },
     "\/less\/background.less" : {
       "ieCompatibility" : 1,
@@ -1152,6 +1192,17 @@
       "outputStyle" : 0,
       "fileType" : 1,
       "debugStyle" : 0
+    },
+    "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/esprima\/test\/run.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/esprima\/test\/run.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/run-ck.js",
+      "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/iconv-lite\/index.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1195,17 +1246,6 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/stringify-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/esprima\/test\/run.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/esprima\/test\/run.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/run-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/lodash\/dist\/lodash.min.js" : {
@@ -1384,6 +1424,26 @@
       "outputAbbreviatedPath" : "\/production\/grunt-ck.js",
       "fileType" : 64
     },
+    "\/node_modules\/grunt\/node_modules\/underscore.string\/test\/test_underscore\/vendor\/qunit.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/underscore.string\/test\/test_underscore\/vendor\/qunit.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/lib\/test.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/lib\/test.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/test-ck.js",
+      "fileType" : 64
+    },
     "\/node_modules\/grunt\/node_modules\/coffee-script\/lib\/coffee-script\/rewriter.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1395,15 +1455,6 @@
       "outputAbbreviatedPath" : "\/production\/rewriter-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/underscore.string\/test\/test_underscore\/vendor\/qunit.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/underscore.string\/test\/test_underscore\/vendor\/qunit.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/index.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1413,17 +1464,6 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/index-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/lib\/test.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/lib\/test.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/test-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/test\/speed.js" : {
@@ -1437,15 +1477,6 @@
       "outputAbbreviatedPath" : "\/production\/speed-ck.js",
       "fileType" : 64
     },
-    "\/css\/theme.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/theme.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/lib\/argument\/error.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1456,6 +1487,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/error-ck.js",
       "fileType" : 64
+    },
+    "\/css\/theme.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/theme.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/node_modules\/grunt-contrib-cssmin\/node_modules\/clean-css\/index.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1663,6 +1703,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/websocket-ck.js",
       "fileType" : 64
+    },
+    "\/release\/css\/bg.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/release\/css\/bg.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/node_modules\/grunt-contrib-cssmin\/node_modules\/clean-css\/lib\/colors\/long-to-short-hex.js" : {
       "ignoreWasSetByUser" : 0,
@@ -2157,15 +2206,15 @@
       "outputAbbreviatedPath" : "\/production\/usr-local-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/jsonify\/test\/parse.js" : {
+    "\/node_modules\/grunt\/node_modules\/dateformat\/lib\/dateformat.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/jsonify\/test\/parse.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/dateformat\/lib\/dateformat.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/parse-ck.js",
+      "outputAbbreviatedPath" : "\/production\/dateformat-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/lib\/grunt\/template.js" : {
@@ -2179,15 +2228,15 @@
       "outputAbbreviatedPath" : "\/production\/template-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/dateformat\/lib\/dateformat.js" : {
+    "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/jsonify\/test\/parse.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/dateformat\/lib\/dateformat.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/jsonify\/test\/parse.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/dateformat-ck.js",
+      "outputAbbreviatedPath" : "\/production\/parse-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/qs\/test\/parse.js" : {
@@ -2331,15 +2380,15 @@
       "outputAbbreviatedPath" : "\/production\/reflect-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/coffee-script\/lib\/coffee-script\/scope.js" : {
+    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/source-map\/test\/source-map\/test-api.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/coffee-script\/lib\/coffee-script\/scope.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/source-map\/test\/source-map\/test-api.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/scope-ck.js",
+      "outputAbbreviatedPath" : "\/production\/test-api-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/glob\/node_modules\/inherits\/inherits.js" : {
@@ -2353,15 +2402,15 @@
       "outputAbbreviatedPath" : "\/production\/inherits-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/source-map\/test\/source-map\/test-api.js" : {
+    "\/node_modules\/grunt\/node_modules\/coffee-script\/lib\/coffee-script\/scope.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/source-map\/test\/source-map\/test-api.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/coffee-script\/lib\/coffee-script\/scope.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/test-api-ck.js",
+      "outputAbbreviatedPath" : "\/production\/scope-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/underscore.string\/test\/test_underscore\/arrays.js" : {
@@ -2439,15 +2488,15 @@
       "outputAbbreviatedPath" : "\/production\/globstar-match-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/underscore.string\/lib\/underscore.string.js" : {
+    "\/node_modules\/grunt\/node_modules\/nopt\/bin\/nopt.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/underscore.string\/lib\/underscore.string.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/nopt\/bin\/nopt.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/underscore.string-ck.js",
+      "outputAbbreviatedPath" : "\/production\/nopt-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/glob\/node_modules\/graceful-fs\/test\/open.js" : {
@@ -2459,17 +2508,6 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/open-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt\/node_modules\/nopt\/bin\/nopt.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/nopt\/bin\/nopt.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/nopt-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/node_modules\/underscore.string\/lib\/underscore.string.js" : {
@@ -2492,6 +2530,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/ba-hooker.min-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt\/node_modules\/underscore.string\/lib\/underscore.string.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/underscore.string\/lib\/underscore.string.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/underscore.string-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/test\/root.js" : {
@@ -2582,17 +2631,6 @@
       "outputAbbreviatedPath" : "\/production\/livereload-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/grunt-legacy-util\/test\/fixtures\/spawn.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/grunt-legacy-util\/test\/fixtures\/spawn.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/spawn-ck.js",
-      "fileType" : 64
-    },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/minimatch\/test\/basic.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2602,6 +2640,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/basic-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt\/node_modules\/grunt-legacy-util\/test\/fixtures\/spawn.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/grunt-legacy-util\/test\/fixtures\/spawn.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/spawn-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/coffee-script\/lib\/coffee-script\/parser.js" : {
@@ -2725,15 +2774,15 @@
       "outputAbbreviatedPath" : "\/production\/helpers-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/lodash\/dist\/lodash.compat.min.js" : {
+    "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/lib\/argument\/group.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/lodash\/dist\/lodash.compat.min.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/lib\/argument\/group.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/lodash.compat.min-ck.js",
+      "outputAbbreviatedPath" : "\/production\/group-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/exit\/test\/fixtures\/log.js" : {
@@ -2769,6 +2818,17 @@
       "outputAbbreviatedPath" : "\/production\/bench-ck.js",
       "fileType" : 64
     },
+    "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/lodash\/dist\/lodash.compat.min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/lodash\/dist\/lodash.compat.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/lodash.compat.min-ck.js",
+      "fileType" : 64
+    },
     "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/node_modules\/underscore\/underscore-min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2778,17 +2838,6 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/underscore-min-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/lib\/argument\/group.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/lib\/argument\/group.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/group-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/jsonify\/index.js" : {
@@ -2835,6 +2884,17 @@
       "outputAbbreviatedPath" : "\/production\/async-ck.js",
       "fileType" : 64
     },
+    "\/images\/wflogo.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/images\/wflogo.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/images\/wflogo.png",
+      "initialSize" : 2165,
+      "fileType" : 8192
+    },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/lodash\/dist\/lodash.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2846,16 +2906,14 @@
       "outputAbbreviatedPath" : "\/production\/lodash-ck.js",
       "fileType" : 64
     },
-    "\/images\/wflogo.png" : {
+    "\/release\/css\/structure.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/images\/wflogo.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/images\/wflogo.png",
-      "initialSize" : 2165,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/release\/css\/structure.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/node_modules\/grunt\/internal-tasks\/bump.js" : {
       "ignoreWasSetByUser" : 0,
@@ -2956,6 +3014,15 @@
       "outputAbbreviatedPath" : "\/production\/exclusive-ck.js",
       "fileType" : 64
     },
+    "\/release\/css\/theme.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/release\/css\/theme.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/test\/only.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2978,6 +3045,17 @@
       "outputAbbreviatedPath" : "\/production\/negate-iife-ck.js",
       "fileType" : 64
     },
+    "\/node_modules\/grunt\/node_modules\/rimraf\/bin.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/rimraf\/bin.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/bin-ck.js",
+      "fileType" : 64
+    },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/test\/order.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2987,17 +3065,6 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/order-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/optimist\/node_modules\/wordwrap\/test\/break.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/optimist\/node_modules\/wordwrap\/test\/break.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/break-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/glob\/node_modules\/graceful-fs\/test\/ulimit.js" : {
@@ -3011,15 +3078,26 @@
       "outputAbbreviatedPath" : "\/production\/ulimit-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/rimraf\/bin.js" : {
+    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/optimist\/node_modules\/wordwrap\/test\/break.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/rimraf\/bin.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/optimist\/node_modules\/wordwrap\/test\/break.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/bin-ck.js",
+      "outputAbbreviatedPath" : "\/production\/break-ck.js",
+      "fileType" : 64
+    },
+    "\/release\/js\/wufoo.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/release\/js\/wufoo.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/production\/wufoo-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/underscore.string\/test\/underscore.js" : {
@@ -3033,17 +3111,6 @@
       "outputAbbreviatedPath" : "\/production\/underscore-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/index.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/index.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/index-ck.js",
-      "fileType" : 64
-    },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/test\/zlib.test.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3053,6 +3120,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/zlib.test-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/index.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/index.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/index-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/test\/exit\/fail.js" : {
@@ -3326,6 +3404,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
+    "\/release\/js\/bootstrap.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/release\/js\/bootstrap.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/production\/bootstrap-ck.js",
+      "fileType" : 64
+    },
     "\/node_modules\/grunt-usemin\/node_modules\/lodash\/dist\/lodash.underscore.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3390,17 +3479,6 @@
       "outputAbbreviatedPath" : "\/production\/client-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/dist\/underscore.string.min.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/dist\/underscore.string.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/underscore.string.min-ck.js",
-      "fileType" : 64
-    },
     "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/glob\/node_modules\/minimatch\/node_modules\/lru-cache\/test\/memory-leak.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3410,6 +3488,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/memory-leak-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/dist\/underscore.string.min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/dist\/underscore.string.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/underscore.string.min-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/glob\/node_modules\/minimatch\/node_modules\/lru-cache\/test\/foreach.js" : {
@@ -3553,17 +3642,6 @@
       "outputAbbreviatedPath" : "\/production\/root-nomount-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/chalk\/index.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/chalk\/index.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/index-ck.js",
-      "fileType" : 64
-    },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/optimist\/example\/nonopt.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3573,6 +3651,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/nonopt-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/chalk\/index.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/chalk\/index.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/index-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/node_modules\/typedarray\/test\/server\/undef_globals.js" : {
@@ -3630,17 +3719,6 @@
       "outputAbbreviatedPath" : "\/production\/turkish-test-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/pretty-bytes\/pretty-bytes.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/pretty-bytes\/pretty-bytes.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/pretty-bytes-ck.js",
-      "fileType" : 64
-    },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/lib\/mozilla-ast.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3650,6 +3728,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/mozilla-ast-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/pretty-bytes\/pretty-bytes.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/pretty-bytes\/pretty-bytes.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/pretty-bytes-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/qs\/test\/browser\/mocha.css" : {
@@ -3747,6 +3836,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
+    "\/release\/images\/Villa_Hilltop_swimming_pool_at_night.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/release\/images\/Villa_Hilltop_swimming_pool_at_night.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/release\/images\/Villa_Hilltop_swimming_pool_at_night.jpg",
+      "initialSize" : 130747,
+      "fileType" : 4096
+    },
     "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/esprima\/test\/runner.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3769,17 +3869,6 @@
       "outputAbbreviatedPath" : "\/production\/repl-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/source-map\/lib\/source-map\/binary-search.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/source-map\/lib\/source-map\/binary-search.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/binary-search-ck.js",
-      "fileType" : 64
-    },
     "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/lodash\/lodash.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3789,6 +3878,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/lodash-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/source-map\/lib\/source-map\/binary-search.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/source-map\/lib\/source-map\/binary-search.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/binary-search-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/node_modules\/underscore.string\/test\/test_underscore\/vendor\/jquery.js" : {
@@ -4011,17 +4111,6 @@
       "outputAbbreviatedPath" : "\/production\/buffer-ck.js",
       "fileType" : 64
     },
-    "\/release\/images\/pool-background.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/release\/images\/pool-background.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/release\/images\/pool-background.jpg",
-      "initialSize" : 79772,
-      "fileType" : 4096
-    },
     "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/test\/infer.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4032,6 +4121,17 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/infer-ck.js",
       "fileType" : 64
+    },
+    "\/release\/images\/pool-background.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/release\/images\/pool-background.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/release\/images\/pool-background.jpg",
+      "initialSize" : 79772,
+      "fileType" : 4096
     },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/lodash\/dist\/lodash.underscore.js" : {
       "ignoreWasSetByUser" : 0,
@@ -4055,17 +4155,6 @@
       "outputAbbreviatedPath" : "\/production\/functions-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/example\/too_many.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/example\/too_many.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/too_many-ck.js",
-      "fileType" : 64
-    },
     "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/node_modules\/underscore.string\/test\/test_underscore\/vendor\/qunit.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4075,6 +4164,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/qunit-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/example\/too_many.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/example\/too_many.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/too_many-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/iconv-lite\/test\/main-test.js" : {
@@ -4187,17 +4287,6 @@
       "outputAbbreviatedPath" : "\/production\/array-set-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-watch\/tasks\/watch.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/tasks\/watch.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/watch-ck.js",
-      "fileType" : 64
-    },
     "\/node_modules\/grunt-usemin\/lib\/fileprocessor.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4207,6 +4296,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/fileprocessor-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt-contrib-watch\/tasks\/watch.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/tasks\/watch.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/watch-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/lodash\/dist\/lodash.compat.js" : {
@@ -4429,17 +4529,6 @@
       "outputAbbreviatedPath" : "\/production\/memory-leak-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/glob\/node_modules\/minimatch\/test\/basic.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/glob\/node_modules\/minimatch\/test\/basic.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/basic-ck.js",
-      "fileType" : 64
-    },
     "\/images\/logo.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4482,6 +4571,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/lru-cache-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/glob\/node_modules\/minimatch\/test\/basic.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/glob\/node_modules\/minimatch\/test\/basic.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/basic-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/test\/zz-cleanup.js" : {
@@ -4704,17 +4804,6 @@
       "outputAbbreviatedPath" : "\/production\/lodash.underscore-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/test\/max_listeners\/source.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/test\/max_listeners\/source.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/source-ck.js",
-      "fileType" : 64
-    },
     "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/glob\/test\/nocase-nomagic.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4735,6 +4824,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/my-program-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/test\/max_listeners\/source.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/test\/max_listeners\/source.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/source-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/node_modules\/underscore.string\/test\/test_underscore\/speed.js" : {
@@ -5033,6 +5133,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/only-ck.js",
       "fileType" : 64
+    },
+    "\/release\/css\/bootstrap.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/release\/css\/bootstrap.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/images\/Villa_Hilltop_swimming_pool_at_night.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -5431,7 +5540,7 @@
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/release\/build\/js\/optimized.js",
       "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
+      "syntaxCheckerStyle" : 0,
       "outputAbbreviatedPath" : "\/production\/optimized-ck.js",
       "fileType" : 64
     },
@@ -5446,15 +5555,15 @@
       "outputAbbreviatedPath" : "\/production\/inherits-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/lib\/namespace.js" : {
+    "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/test\/00-setup.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/lib\/namespace.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/test\/00-setup.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/namespace-ck.js",
+      "outputAbbreviatedPath" : "\/production\/00-setup-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/issue-22.js" : {
@@ -5468,15 +5577,15 @@
       "outputAbbreviatedPath" : "\/production\/issue-22-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/issue-59.js" : {
+    "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/lib\/namespace.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/issue-59.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/lib\/namespace.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/issue-59-ck.js",
+      "outputAbbreviatedPath" : "\/production\/namespace-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/Gruntfile.js" : {
@@ -5490,15 +5599,15 @@
       "outputAbbreviatedPath" : "\/production\/Gruntfile-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/test\/00-setup.js" : {
+    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/issue-59.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/test\/00-setup.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/issue-59.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/00-setup-ck.js",
+      "outputAbbreviatedPath" : "\/production\/issue-59-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/noptify\/test\/collectable.js" : {
@@ -5693,15 +5802,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/jsonify\/test\/stringify.js" : {
+    "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/faye-websocket\/lib\/faye\/websocket\/draft75_parser.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/jsonify\/test\/stringify.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/faye-websocket\/lib\/faye\/websocket\/draft75_parser.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/stringify-ck.js",
+      "outputAbbreviatedPath" : "\/production\/draft75_parser-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/qs\/test\/browser\/qs.js" : {
@@ -5713,6 +5822,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/qs-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/jsonify\/test\/stringify.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/jsonify\/test\/stringify.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/stringify-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/noptify\/test\/api.js" : {
@@ -5737,6 +5857,17 @@
       "outputAbbreviatedPath" : "\/production\/chaining-ck.js",
       "fileType" : 64
     },
+    "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/lodash\/dist\/lodash.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/lodash\/dist\/lodash.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/lodash-ck.js",
+      "fileType" : 64
+    },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/minimatch\/node_modules\/lru-cache\/test\/foreach.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5746,28 +5877,6 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/foreach-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/glob\/examples\/usr-local.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/glob\/examples\/usr-local.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/usr-local-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/faye-websocket\/lib\/faye\/websocket\/draft75_parser.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/faye-websocket\/lib\/faye\/websocket\/draft75_parser.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/draft75_parser-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/source-map\/test\/source-map\/test-util.js" : {
@@ -5781,15 +5890,15 @@
       "outputAbbreviatedPath" : "\/production\/test-util-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/lodash\/dist\/lodash.js" : {
+    "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/glob\/examples\/usr-local.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/lodash\/dist\/lodash.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/glob\/examples\/usr-local.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/lodash-ck.js",
+      "outputAbbreviatedPath" : "\/production\/usr-local-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/js-yaml\/lib\/js-yaml\/type.js" : {
@@ -5803,17 +5912,6 @@
       "outputAbbreviatedPath" : "\/production\/type-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/defined\/example\/defined.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/defined\/example\/defined.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/defined-ck.js",
-      "fileType" : 64
-    },
     "\/node_modules\/grunt\/node_modules\/underscore.string\/dist\/underscore.string.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5823,6 +5921,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/underscore.string.min-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/defined\/example\/defined.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/defined\/example\/defined.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/defined-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/node_modules\/readable-stream\/node_modules\/isarray\/index.js" : {
@@ -5878,17 +5987,6 @@
       "outputAbbreviatedPath" : "\/production\/hybi_parser-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/test\/pause-resume.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/test\/pause-resume.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/pause-resume-ck.js",
-      "fileType" : 64
-    },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/uglify-to-browserify\/test\/index.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5900,6 +5998,17 @@
       "outputAbbreviatedPath" : "\/production\/index-ck.js",
       "fileType" : 64
     },
+    "\/node_modules\/grunt-contrib-uglify\/tasks\/lib\/uglify.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/tasks\/lib\/uglify.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/uglify-ck.js",
+      "fileType" : 64
+    },
     "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/cli.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5909,6 +6018,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/cli-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt\/node_modules\/underscore.string\/test\/test_underscore\/collections.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/underscore.string\/test\/test_underscore\/collections.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/collections-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/test\/underscore.js" : {
@@ -5933,6 +6053,17 @@
       "outputAbbreviatedPath" : "\/production\/grammar-ck.js",
       "fileType" : 64
     },
+    "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/test\/pause-resume.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/test\/pause-resume.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/pause-resume-ck.js",
+      "fileType" : 64
+    },
     "\/node_modules\/grunt-usemin\/node_modules\/debug\/index.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -5942,28 +6073,6 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/index-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt\/node_modules\/underscore.string\/test\/test_underscore\/collections.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/underscore.string\/test\/test_underscore\/collections.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/collections-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt-contrib-uglify\/tasks\/lib\/uglify.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/tasks\/lib\/uglify.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/uglify-ck.js",
       "fileType" : 64
     },
     "\/css\/bg.css" : {
@@ -6290,15 +6399,6 @@
       "outputAbbreviatedPath" : "\/production\/xup-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/test\/test_underscore\/vendor\/qunit.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/test\/test_underscore\/vendor\/qunit.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/defined\/index.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6309,6 +6409,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/index-ck.js",
       "fileType" : 64
+    },
+    "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/test\/test_underscore\/vendor\/qunit.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/test\/test_underscore\/vendor\/qunit.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/source-map\/test\/source-map\/test-source-map-generator.js" : {
       "ignoreWasSetByUser" : 0,
@@ -6387,15 +6496,37 @@
       "outputAbbreviatedPath" : "\/production\/fail-ck.js",
       "fileType" : 64
     },
-    "\/.tmp\/concat\/js\/optimized.js" : {
+    "\/node_modules\/grunt\/node_modules\/js-yaml\/lib\/js-yaml\/require.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/.tmp\/concat\/js\/optimized.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/js-yaml\/lib\/js-yaml\/require.js",
       "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/production\/optimized-ck.js",
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/require-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/issue-12.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/issue-12.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/issue-12-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/test\/run-qunit.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/test\/run-qunit.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/run-qunit-ck.js",
       "fileType" : 64
     },
     "\/images\/bg-ipad.jpg" : {
@@ -6409,28 +6540,6 @@
       "initialSize" : 27013,
       "fileType" : 4096
     },
-    "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/test\/run-qunit.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/test\/run-qunit.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/run-qunit-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt\/node_modules\/js-yaml\/lib\/js-yaml\/require.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/js-yaml\/lib\/js-yaml\/require.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/require-ck.js",
-      "fileType" : 64
-    },
     "\/node_modules\/grunt\/node_modules\/iconv-lite\/encodings\/gbk.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6440,17 +6549,6 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/gbk-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/index.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/index.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/index-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/example\/nested.js" : {
@@ -6464,6 +6562,17 @@
       "outputAbbreviatedPath" : "\/production\/nested-ck.js",
       "fileType" : 64
     },
+    "\/.tmp\/concat\/js\/optimized.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/.tmp\/concat\/js\/optimized.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/production\/optimized-ck.js",
+      "fileType" : 64
+    },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/issue-267.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6475,15 +6584,15 @@
       "outputAbbreviatedPath" : "\/production\/issue-267-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/issue-12.js" : {
+    "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/index.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/issue-12.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/index.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/issue-12-ck.js",
+      "outputAbbreviatedPath" : "\/production\/index-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/jsonify\/lib\/parse.js" : {
@@ -6574,6 +6683,17 @@
       "outputAbbreviatedPath" : "\/production\/new-glob-optional-options-ck.js",
       "fileType" : 64
     },
+    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/test\/typedarray.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/test\/typedarray.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/typedarray-ck.js",
+      "fileType" : 64
+    },
     "\/node_modules\/grunt-usemin\/node_modules\/lodash\/dist\/lodash.compat.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6594,17 +6714,6 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/cwd-test-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/test\/typedarray.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/test\/typedarray.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/typedarray-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/underscore.string\/test\/test_underscore\/speed.js" : {
@@ -6684,6 +6793,17 @@
       "outputAbbreviatedPath" : "\/production\/basic-ck.js",
       "fileType" : 64
     },
+    "\/release\/images\/logo.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/release\/images\/logo.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/release\/images\/logo.png",
+      "initialSize" : 3421,
+      "fileType" : 8192
+    },
     "\/node_modules\/grunt\/node_modules\/js-yaml\/lib\/js-yaml\/type\/js\/function.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -6693,28 +6813,6 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/function-ck.js",
-      "fileType" : 64
-    },
-    "\/release\/images\/logo.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/release\/images\/logo.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/release\/images\/logo.png",
-      "initialSize" : 4190,
-      "fileType" : 8192
-    },
-    "\/js\/optimized.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/optimized.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/production\/optimized-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/js-yaml\/lib\/js-yaml\/schema\/minimal.js" : {
@@ -6924,6 +7022,17 @@
       "outputAbbreviatedPath" : "\/production\/g-ck.js",
       "fileType" : 64
     },
+    "\/release\/js\/jquery.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/release\/js\/jquery.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/production\/jquery-ck.js",
+      "fileType" : 64
+    },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/zlib.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7085,14 +7194,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/index.html" : {
+    "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/glob\/test\/readme-issue.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/glob\/test\/readme-issue.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/readme-issue-ck.js",
+      "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/test\/exit.js" : {
       "ignoreWasSetByUser" : 0,
@@ -7116,17 +7227,6 @@
       "outputAbbreviatedPath" : "\/production\/strings-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/glob\/test\/readme-issue.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/findup-sync\/node_modules\/glob\/test\/readme-issue.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/readme-issue-ck.js",
-      "fileType" : 64
-    },
     "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/lib\/action\/version.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7137,6 +7237,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/version-ck.js",
       "fileType" : 64
+    },
+    "\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/dead-code.js" : {
       "ignoreWasSetByUser" : 0,
@@ -7237,16 +7346,14 @@
       "outputAbbreviatedPath" : "\/production\/expect-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/test\/nocase-nomagic.js" : {
+    "\/release\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/test\/nocase-nomagic.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/nocase-nomagic-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/release\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/minimatch\/test\/defaults.js" : {
       "ignoreWasSetByUser" : 0,
@@ -7259,6 +7366,28 @@
       "outputAbbreviatedPath" : "\/production\/defaults-ck.js",
       "fileType" : 64
     },
+    "\/production\/jquery-ck.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/production\/jquery-ck.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/production\/jquery-ck-ck.js",
+      "fileType" : 64
+    },
+    "\/release\/images\/powerlogo.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/release\/images\/powerlogo.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/release\/images\/powerlogo.png",
+      "initialSize" : 1821,
+      "fileType" : 8192
+    },
     "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/lib\/action\/help.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7268,6 +7397,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/help-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/test\/nocase-nomagic.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/test\/nocase-nomagic.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/nocase-nomagic-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/lib\/grunt\/event.js" : {
@@ -7280,26 +7420,6 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/event-ck.js",
       "fileType" : 64
-    },
-    "\/release\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/release\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/release\/images\/powerlogo.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/release\/images\/powerlogo.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/release\/images\/powerlogo.png",
-      "initialSize" : 1821,
-      "fileType" : 8192
     },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/source-map\/lib\/source-map\/source-map-generator.js" : {
       "ignoreWasSetByUser" : 0,
@@ -7367,15 +7487,15 @@
       "outputAbbreviatedPath" : "\/production\/utility-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/findup-sync\/Gruntfile.js" : {
+    "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/lodash\/dist\/lodash.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/findup-sync\/Gruntfile.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/lodash\/dist\/lodash.min.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/Gruntfile-ck.js",
+      "outputAbbreviatedPath" : "\/production\/lodash.min-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/labels.js" : {
@@ -7389,48 +7509,15 @@
       "outputAbbreviatedPath" : "\/production\/labels-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/lodash\/dist\/lodash.min.js" : {
+    "\/node_modules\/grunt\/node_modules\/findup-sync\/Gruntfile.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/grunt-legacy-log\/node_modules\/lodash\/dist\/lodash.min.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/findup-sync\/Gruntfile.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/lodash.min-ck.js",
-      "fileType" : 64
-    },
-    "\/.tmp\/concat\/build\/js\/optimized.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/.tmp\/concat\/build\/js\/optimized.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/optimized-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/properties.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/properties.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/properties-ck.js",
-      "fileType" : 64
-    },
-    "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/faye-websocket\/spec\/faye\/websocket\/hybi_parser_spec.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/faye-websocket\/spec\/faye\/websocket\/hybi_parser_spec.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/hybi_parser_spec-ck.js",
+      "outputAbbreviatedPath" : "\/production\/Gruntfile-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/node_modules\/optimist\/example\/line_count_options.js" : {
@@ -7444,6 +7531,17 @@
       "outputAbbreviatedPath" : "\/production\/line_count_options-ck.js",
       "fileType" : 64
     },
+    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/properties.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/properties.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/properties-ck.js",
+      "fileType" : 64
+    },
     "\/node_modules\/grunt-contrib-uglify\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/lib\/test.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7453,6 +7551,28 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/test-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/faye-websocket\/spec\/faye\/websocket\/hybi_parser_spec.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-watch\/node_modules\/tiny-lr-fork\/node_modules\/faye-websocket\/spec\/faye\/websocket\/hybi_parser_spec.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/hybi_parser_spec-ck.js",
+      "fileType" : 64
+    },
+    "\/.tmp\/concat\/build\/js\/optimized.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/.tmp\/concat\/build\/js\/optimized.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/optimized-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/lodash\/dist\/lodash.min.js" : {
@@ -7572,15 +7692,15 @@
       "outputAbbreviatedPath" : "\/production\/added_formatters-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/lib\/ast.js" : {
+    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/test\/nothing.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/lib\/ast.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/test\/nothing.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/ast-ck.js",
+      "outputAbbreviatedPath" : "\/production\/nothing-ck.js",
       "fileType" : 64
     },
     "\/js\/jquery.js" : {
@@ -7594,15 +7714,15 @@
       "outputAbbreviatedPath" : "\/production\/jquery-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/clean-css\/lib\/text\/comments.js" : {
+    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/lib\/ast.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/clean-css\/lib\/text\/comments.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/lib\/ast.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/comments-ck.js",
+      "outputAbbreviatedPath" : "\/production\/ast-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/glob.js" : {
@@ -7616,6 +7736,17 @@
       "outputAbbreviatedPath" : "\/production\/glob-ck.js",
       "fileType" : 64
     },
+    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/clean-css\/lib\/text\/comments.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/clean-css\/lib\/text\/comments.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/comments-ck.js",
+      "fileType" : 64
+    },
     "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/node_modules\/underscore\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7624,17 +7755,6 @@
       "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/node_modules\/underscore\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/test\/nothing.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/test\/nothing.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/nothing-ck.js",
-      "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/underscore.string\/test\/strings_standalone.js" : {
       "ignoreWasSetByUser" : 0,
@@ -7906,17 +8026,6 @@
       "outputAbbreviatedPath" : "\/production\/lodash-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/examples\/parents.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/examples\/parents.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/parents-ck.js",
-      "fileType" : 64
-    },
     "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/zlib-browserify\/node_modules\/tape\/node_modules\/jsonify\/test\/parse.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -7926,6 +8035,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/production\/parse-ck.js",
+      "fileType" : 64
+    },
+    "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/examples\/parents.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/js-yaml\/node_modules\/argparse\/examples\/parents.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/parents-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/test\/cwd-test.js" : {
@@ -7994,15 +8114,15 @@
       "outputAbbreviatedPath" : "\/production\/index-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/concat-strings.js" : {
+    "\/node_modules\/grunt\/node_modules\/async\/lib\/async.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/concat-strings.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/async\/lib\/async.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/concat-strings-ck.js",
+      "outputAbbreviatedPath" : "\/production\/async-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-watch\/node_modules\/gaze\/node_modules\/globule\/node_modules\/glob\/node_modules\/graceful-fs\/graceful-fs.js" : {
@@ -8016,15 +8136,15 @@
       "outputAbbreviatedPath" : "\/production\/graceful-fs-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt\/node_modules\/async\/lib\/async.js" : {
+    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/concat-strings.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt\/node_modules\/async\/lib\/async.js",
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/concat-strings.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/async-ck.js",
+      "outputAbbreviatedPath" : "\/production\/concat-strings-ck.js",
       "fileType" : 64
     },
     "\/node_modules\/grunt\/node_modules\/js-yaml\/lib\/js-yaml\/type\/seq.js" : {
@@ -8361,17 +8481,6 @@
       "outputAbbreviatedPath" : "\/production\/api-ck.js",
       "fileType" : 64
     },
-    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/typeof.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/typeof.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/production\/typeof-ck.js",
-      "fileType" : 64
-    },
     "\/images\/pool-background.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -8382,6 +8491,17 @@
       "outputAbbreviatedPath" : "\/images\/pool-background.jpg",
       "initialSize" : 102931,
       "fileType" : 4096
+    },
+    "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/typeof.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/node_modules\/grunt-contrib-uglify\/node_modules\/uglify-js\/test\/compress\/typeof.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/production\/typeof-ck.js",
+      "fileType" : 64
     },
     "\/node_modules\/grunt-contrib-cssmin\/node_modules\/maxmin\/node_modules\/gzip-size\/node_modules\/concat-stream\/node_modules\/readable-stream\/node_modules\/isarray\/build\/build.js" : {
       "ignoreWasSetByUser" : 0,
