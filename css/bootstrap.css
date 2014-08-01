@@ -6109,7 +6109,7 @@ h5 {
 }
 @media (min-width: 992px) {
   .first {
-    background-image: url('../images/pool-background.jpg');
+    background-image: url('../images/bg.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-color: #000000;
@@ -6117,7 +6117,7 @@ h5 {
 }
 @media (min-width: 1200px) {
   .first {
-    background-image: url('../images/pool-background.jpg');
+    background-image: url('../images/bg.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-color: #000000;
@@ -6128,15 +6128,15 @@ h5 {
 }
 @media (max-width: 480px) {
   .second {
-    background-image: url('../images/bg-small.jpg');
+    background-image: url('../images/bg-2-small.jpg');
     background-size: 100% auto;
     background-repeat: no-repeat;
-    background-color: #4f1001;
+    background-color: #b35821;
   }
 }
 @media (min-width: 480px) {
   .second {
-    background-image: url('../images/bg-ipad.jpg');
+    background-image: url('../images/bg-2-ipad.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-color: #000000;
@@ -6144,7 +6144,7 @@ h5 {
 }
 @media (min-width: 768px) {
   .second {
-    background-image: url('../images/bg-ipad.jpg');
+    background-image: url('../images/bg-2-ipad.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-color: #000000;
@@ -6152,7 +6152,7 @@ h5 {
 }
 @media (min-width: 992px) {
   .second {
-    background-image: url('../images/pool-background.jpg');
+    background-image: url('../images/bg-2.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-color: #000000;
@@ -6160,7 +6160,7 @@ h5 {
 }
 @media (min-width: 1200px) {
   .second {
-    background-image: url('../images/section2bg.jpg');
+    background-image: url('../images/bg-2.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-color: #000000;
