@@ -1,0 +1,181 @@
+//Text Optimization
+//=========================================================
+// HTML.chrome.win { -webkit-text-stroke: 0.9px; }
+
+
+
+
+
+//Media Query to handle fonts for Chrome on WinXX
+//=========================================================
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+
+	@font-face {
+		font-family: 	OsifontRegular;
+		src: 			url('../../../fonts/proxima-nova-regular.svg') format('svg');
+	}
+
+	@font-face {
+		font-family: 	OsifontSemibold;
+		src: 			url('../../../fonts/proxima-nova-semibold.svg') format('svg');;
+	}
+
+	@font-face {
+		font-family: 	OsifontItalics;
+		src: 			url('../../../fonts/proxima-nova-regular-italic.svg') format('svg');
+	}
+}
+*/
+
+//Button variant
+//===========================================================
+.btn-reserve{
+	.button-variant(#fff, #11bfbf, #0d8f8f);
+}
+
+/*
+.btn-signup{
+	.button-variant(#fff, #f9626b, #f08b5a);
+}
+*/
+
+.btn-signup{
+	.button-variant(#fff, #11bfbf, #fff);
+}
+
+
+// Jumbotron
+//===========================================================
+.sutro-jumbo-padding{
+	@media (min-width: @screen-xs){
+		padding-top: 	60px;
+		padding-bottom: 60px;
+	}
+	@media (min-width: @screen-sm){
+		padding-top: 	60px;
+		padding-bottom: 60px;
+	}
+	@media (min-width: @screen-md){
+		padding-top: 	100px;
+		padding-bottom: 100px;
+	}
+	@media (min-width: @screen-lg){
+		padding-top: 	300px;
+		padding-bottom: 150px;
+	}	
+}
+
+.sutro-jumbotron{
+	.jumbotron();
+	.sutro-jumbo-padding();
+	height: 	750px;
+	background-color: transparent;
+	text-align: center;
+	color: 		#fff;
+}
+
+.jumbotron-about-bg{
+	background-image: url('../images/about-bg.png') ;
+	max-width: 100%;
+	heigh:		auto;
+}
+
+
+.margin-below-header{
+	padding-top: 100px;
+}
+
+
+
+//Navbar
+//=========================================================
+
+.navbar-brand{
+	color: 			#fff;
+	font-family: 	OsifontSemibold;
+		
+	&:link{
+		color: 		#fff;
+	}
+	&:hover{
+		color: 				darken(#fff, 10%);
+		text-decoration: 	none;
+	}
+	// &:visited{
+	// 	color: 		#fff;
+	// }
+	// &:active{
+	// 	color: 		#fff;
+	// }	
+		
+}
+
+.navbar-btn{
+	margin-top: 15px;
+}
+
+
+//Fix for footer to the bottom of the page
+//==========================================================
+
+html, body{
+	height: 		100%;
+}
+
+.wrap{
+	min-height: 	100%;
+}
+
+.last-section{
+	overflow:		auto;
+	padding-bottom: 70px;
+
+}
+
+.page-section{
+	padding-top: 	200px;
+	padding-bottom:	200px;
+}
+
+//Landing Page Graphics
+//==========================================================
+.image-graphics{
+	height: 		75px;
+}
+
+.row-padding{
+	padding-top: 	50px;
+	padding-bottom: 50px;
+}
+
+//Team Page
+//==========================================================
+.team-member{
+	text-align: center;
+	p{
+		text-align: justify;
+	}
+	
+}
+
+//Privacy Page
+//==========================================================
+.text-inverse{
+	color:			#888;
+}
+h1,h2,h3,h4,h5{
+	.text-inverse();
+}
+
+.first, .second, .third{
+	text-align: 	center;
+	color: 			#fff;
+}
+
+//Confirmation Page
+//==========================================================
+.confirmation-bg{
+	background-image: url('../images/09.jpg');
+	background-size: 100% auto;
+}
