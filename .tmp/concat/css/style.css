@@ -5959,7 +5959,7 @@ fieldset[disabled] .btn-signup.active {
   }
 }
 .jumbotron-about-bg {
-  background-image: url('../images/about-bg.jpeg');
+  background-image: url('../images/about-bg.jpg');
   max-width: 100%;
   heigh: auto;
 }
@@ -5989,7 +5989,7 @@ body {
 }
 .last-section {
   overflow: auto;
-  padding-bottom: 70px;
+  padding-bottom: 135px;
 }
 .page-section {
   padding-top: 200px;
@@ -6007,6 +6007,7 @@ body {
 }
 .team-member {
   text-align: center;
+  /* 	margin-bottom: 	45px; */
 }
 .team-member p {
   text-align: justify;

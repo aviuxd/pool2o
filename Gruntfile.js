@@ -32,7 +32,7 @@ module.exports = function(grunt) {
 			}
 		},
 		useminPrepare: {
-	    	html: ['release/index.html','release/about.html','release/privacy.html','release/submission-confirmation.html'],
+	    	html: ['release/*.html'],
 			options: {
 				dest: 'release/build'
 			}	
@@ -88,7 +88,7 @@ module.exports = function(grunt) {
 */		
 
 		usemin: {
-			  html: ['release/index.html','release/about.html','release/privacy.html','release/submission-confirmation.html'],
+			  html: ['release/*.html'],
 			  options: {
 			    /* assetsDirs: ['/images'], */
 			    dest:		'release'
