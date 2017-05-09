@@ -1,3 +1,4 @@
 **/node_modules
 **/release
 **/codekit-config.json
+*.sublime-workspace
